@@ -19,6 +19,6 @@ This project is licensed under the MIT license.
 #Contributing
 Contributors: N/A
 # Tests
-The following is needed to run the test: node index.js and express
+The following is needed to run the test: node index.js and express.js back end
 # Questions
 If you have any questions please contact dontess5@yahoo.com
